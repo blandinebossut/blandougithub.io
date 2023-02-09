@@ -1,0 +1,95 @@
+
+
+
+body{
+	height:1200px;
+	width:1000px;
+	text-align:center;
+	margin-left: 25px;
+	color: red;
+}
+
+.card h2{
+text-align: center;
+margin-left: 205px;
+color: pink;
+
+}
+
+.card h1{
+margin-left:205px;
+color: pink;
+
+}
+
+
+img{
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	margin-left:205px;
+	text-align: center;
+}
+
+.me{
+	width: 1000px;
+	height: 200px;
+	background: pink;
+	border-radius: 10%;
+	margin-left: 120px;
+	box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+
+}
+
+
+li{
+text-align: left;
+margin-left: 420px;
+}
+
+
+
+
+
+.icon{
+	width: 1000px;
+	height: 200px;
+	background: pink;
+	border-radius: 10%;
+	margin-left: 120px;
+	box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+	margin-top: 25px;
+	
+}
+
+.icon img{
+	height: auto ;
+	width: 100px;
+	margin-left: 50px;
+	margin-top: 25px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
